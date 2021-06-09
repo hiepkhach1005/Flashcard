@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="81995054-eec9-455c-b90a-593abb0868fb" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="ProjectId" id="1tVqcKMMxM0vTCtL3EcH1R2Mreq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="81995054-eec9-455c-b90a-593abb0868fb" name="Default Changelist" comment="" />
+      <created>1622864682971</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1622864682971</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1826" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1622865149840">
+      <screen x="-2560" y="0" width="2560" height="1040" />
+    </state>
+    <state x="-1826" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/-2560.0.2560.1040@-2560.0.2560.1040" timestamp="1622865149840" />
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1622870350363">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040/-2560.0.2560.1040@0.0.1920.1040" timestamp="1622870350363" />
+    <state x="-1779" y="164" key="SettingsEditor" timestamp="1622868061127">
+      <screen x="-2560" y="0" width="2560" height="1040" />
+    </state>
+    <state x="-1779" y="164" key="SettingsEditor/0.0.1920.1040/-2560.0.2560.1040@-2560.0.2560.1040" timestamp="1622868061127" />
+  </component>
+</project>
